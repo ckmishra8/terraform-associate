@@ -708,3 +708,4 @@ module "example_sqs_queue" {
   depends_on = [aws_s3_bucket.example, aws_instance.example_c]
 }
 ```
+Note: Have look [here](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a) as well.
